@@ -1,6 +1,14 @@
-# I'm Musa Galiwango 
+# Hi, I'm Musa Galiwango 
 
-### Python Developer | Django Developer | Software Engineering Enthusiast
+Information Technology  Student | Aspiring Full-Stack Software Engineer
+
+I build practical web applications while developing strong foundations in Python, Django, PostgreSQL, JavaScript, and software engineering.
+
+Currently focused on moving from student projects to clean, maintainable, production-style applications.
+
+Tech Stack
+Python  Django JavaScript
+HTML CSS  Git GitHub
 
 I enjoy learning how software works and building practical applications that solve real-world problems.
 
