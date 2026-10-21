@@ -1,16 +1,35 @@
-## Hi there 👋
+# I'm Musa Galiwango 
 
-<!--
-**mashab246/mashab246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Django Developer | Software Engineering Enthusiast
 
-Here are some ideas to get you started:
+I enjoy learning how software works and building practical applications that solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Working with Python and Django
+- Building a Django e-commerce marketplace
+- Learning database design and backend development
+- Continuously improving my software engineering skills
+- Open to learning, collaboration, and exciting projects
+
+### Technologies & Tools
+
+- **Language:** Python
+- **Framework:** Django
+- **Database:** SQLite / SQL (as used in my projects)
+- **Tools:** Git, GitHub, VS Code
+
+### Featured Project
+
+**E-Commerce Django**
+
+Developing an e-commerce application with Django, with a focus on building a multi-vendor marketplace.
+
+Explore my repositories to follow my progress and see what I'm building.
+
+###  Connect With Me
+
+- **GitHub:** [@mashab246](https://github.com/mashab246)
+- **Email:** musagaliwango64@gmail.com
+
+---
+
+*Learning, building, and improving one project at a time.*
